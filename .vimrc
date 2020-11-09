@@ -6,3 +6,4 @@
 :  autocmd BufLeave,FocusLost,InsertEnter   * set norelativenumber
 :augroup END
 
+:imap jj <Esc>
