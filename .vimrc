@@ -7,3 +7,5 @@
 :augroup END
 
 :imap jj <Esc>
+
+:highlight Visual cterm=reverse ctermbg=NONE
